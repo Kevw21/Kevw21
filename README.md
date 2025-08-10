@@ -11,7 +11,6 @@
 ###
 
 <h2 align="left">🚀About Me</h2>
-<hr>
 
 ###
 
@@ -34,7 +33,6 @@
 ###
 
 <h2 align="left">💻My Tech Stack and Toolkits</h2>
-<hr>
 
 ###
 
@@ -73,7 +71,6 @@
 ###
 
 <h2 align="left">📚I'm Currently Learning</h2>
-<hr>
 
 ###
 
@@ -88,7 +85,6 @@
 ###
 
 <h2 align="left">📊My GitHub Stats</h2>
-<hr>
 
 ###
 
@@ -100,20 +96,19 @@
 ###
 
 <h2 align="left">🔗Connect With Me</h2>
-<hr>
 
 ###
 
 <div align="left">
-  <a href="mailto:kevinwangsa.dev@outlook.com">
+  <a href="mailto:kevinwangsa.dev@outlook.com" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="email logo"  />
   </a>
 
-  <a href="https://www.linkedin.com/in/kevinwangsa">
+  <a href="https://www.linkedin.com/in/kevinwangsa" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 
-  <a href="https://discord.com/users/708659738140868678">
+  <a href="https://discord.com/users/708659738140868678" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
