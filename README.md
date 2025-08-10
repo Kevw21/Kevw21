@@ -14,7 +14,7 @@
 
 ###
 
-<br clear="both">
+<!-- <br clear="both"> -->
 
 <img align="right" height="250" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa210ZGJzampwYnB0NTZhcWs4dXFrd2JpNHQyYTUzeTYyNWYzdzFrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H62NM1ab7wzMXURdoi/giphy.gif" style="margin-left: 20px; margin-bottom: 20px;" />
 
@@ -100,15 +100,15 @@
 ###
 
 <div align="left">
-  <a href="mailto:kevinwangsa.dev@outlook.com" style="text-decoration: none;">
+  <a href="mailto:kevinwangsa.dev@outlook.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="email logo"  />
   </a>
 
-  <a href="https://www.linkedin.com/in/kevinwangsa" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/kevinwangsa">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 
-  <a href="https://discord.com/users/708659738140868678" style="text-decoration: none;">
+  <a href="https://discord.com/users/708659738140868678">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
