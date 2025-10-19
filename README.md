@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left" style="text-align: justify;"">💫<b>Introduction:</b><br>I'm Kevin Wangsa, a Computer Science undergraduate at Binus University, passionate about building intuitive web applications and leveraging AI to solve real-world challenges.<br>💼I'm currently interning as an IT Developer at Binus University.</p>
+<p align="left" style="text-align: justify;"">💫<b>Introduction:</b><br>I'm Kevin Wangsa, a Computer Science undergraduate at Binus University, passionate about building intuitive web applications and leveraging AI to solve real-world challenges.<br>💼I'm currently interning as a Backend Developer at the Ministry of Housing and Residential Area (Kementrian PKP).</p>
 
 ###
 
@@ -80,6 +80,8 @@
   <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
 
 ###
